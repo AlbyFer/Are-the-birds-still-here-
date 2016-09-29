@@ -8,6 +8,5 @@ Modelling was carried out using a CReSS based GAM, fitted with the SALSA2D algor
 assumptions. A GEE was subsequently required, given the non-independence of residuals.
 
 Content: 
-
 EDA.R: the code for modelling
 Report.pdf: the report explaining findings and analysis
